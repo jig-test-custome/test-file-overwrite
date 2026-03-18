@@ -1,3 +1,8 @@
+# Old Contributing Guide
+
+This content is stale and should be fully replaced by Jig.
+
+# JIG-START #
 # Contributing Guide
 
 This document is managed by [Jig](https://github.com/<no value>/jig).
@@ -17,3 +22,4 @@ This document is managed by [Jig](https://github.com/<no value>/jig).
 ## Reporting Issues
 
 Open a GitHub Issue with a clear description and reproduction steps.
+# JIG-END #
